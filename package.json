@@ -1,0 +1,26 @@
+{
+  "name": "blabla",
+  "version": "1.0.0",
+  "description": "nive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xamarth/blabla.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/xamarth/blabla/issues"
+  },
+  "homepage": "https://github.com/xamarth/blabla#readme",
+  "dependencies": {
+    "jsonfile": "^6.2.0",
+    "moment": "^2.30.1",
+    "simple-git": "^3.28.0"
+  }
+}
